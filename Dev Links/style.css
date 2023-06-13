@@ -38,8 +38,7 @@ body{
 	background-size: cover;*/
 
 	/*background: color image repeat position/size*/
-	background: var(--bg-url) no-repeat top center/cover;	
-	height: 100vh;
+	background: var(--bg-url) no-repeat top center/cover;
 }
 
 #container{
